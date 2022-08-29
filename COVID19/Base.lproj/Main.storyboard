@@ -91,7 +91,7 @@
                     <navigationItem key="navigationItem" id="YIT-Ec-asX"/>
                     <connections>
                         <outlet property="newCaseLabel" destination="k61-5D-8e3" id="IRI-SZ-8rd"/>
-                        <outlet property="peChartView" destination="sc7-cd-vcq" id="lYF-Gl-OdS"/>
+                        <outlet property="pieChartView" destination="sc7-cd-vcq" id="4kq-ee-hUZ"/>
                         <outlet property="totalCaseLabel" destination="Pvr-Ee-diJ" id="DlT-P0-rbz"/>
                     </connections>
                 </viewController>
