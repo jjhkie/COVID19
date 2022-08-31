@@ -26,3 +26,13 @@
     
     - Escaping ( @escaping )
     
+    - Alamofire 
+    
+    - completionHandler 
+    
+    - compactMap
+    
+    - [weak self]
+    
+    - PieChartDataSet
+    
