@@ -25,7 +25,8 @@
 [ Add ]
     
     - Escaping ( @escaping )
-    
+       [ https://jjhkie.tistory.com/entry/Escaping-Nabee ]
+       
     - Alamofire 
     
     - completionHandler 
