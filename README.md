@@ -28,7 +28,7 @@
 
 - Alamofire 
     
-- completionHandler 
+- completionHandler    [ https://jjhkie.tistory.com/entry/CompletionHandler-Nabee ]
     
 - compactMap
     
