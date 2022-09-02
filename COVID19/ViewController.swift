@@ -102,7 +102,7 @@ class ViewController: UIViewController {
         completionHandler: @escaping (Result<CityCovidOverview, Error>) -> Void){
             let url = "https://api.corona-19.kr/korea/country/new/"
             let param = [
-                "serviceKey": "eYtzNq24Vg6BUHC8lXOLaR1vdZGiAJEbs"
+                "serviceKey": "apiKey"
             ]
             
             AF.request(url, method: .get, parameters: param)
