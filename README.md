@@ -24,16 +24,19 @@
     
 [ Add ]
     
-    - Escaping ( @escaping )
-       [ https://jjhkie.tistory.com/entry/Escaping-Nabee ]
-       
-    - Alamofire 
+- Escaping ( @escaping )   [ https://jjhkie.tistory.com/entry/Escaping-Nabee ]
+
+- Alamofire 
     
-    - completionHandler 
+- completionHandler 
     
-    - compactMap
+- compactMap
     
-    - [weak self]
+- [weak self]
     
-    - PieChartDataSet
+- PieChartDataSet
+              
+
+    
+    
     
